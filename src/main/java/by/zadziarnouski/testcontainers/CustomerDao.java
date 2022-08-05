@@ -1,4 +1,4 @@
-package com.jetbrains.testcontainersdemo;
+package by.zadziarnouski.testcontainers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

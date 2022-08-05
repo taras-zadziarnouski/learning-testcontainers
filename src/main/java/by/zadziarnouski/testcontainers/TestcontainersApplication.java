@@ -1,13 +1,13 @@
-package com.jetbrains.testcontainersdemo;
+package by.zadziarnouski.testcontainers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestcontainersDemoApplication {
+public class TestcontainersApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestcontainersDemoApplication.class, args);
+		SpringApplication.run(TestcontainersApplication.class, args);
 	}
 
 }

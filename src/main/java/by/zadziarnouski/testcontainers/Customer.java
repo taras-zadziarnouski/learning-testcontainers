@@ -1,4 +1,4 @@
-package com.jetbrains.testcontainersdemo;
+package by.zadziarnouski.testcontainers;
 
 public class Customer {
 
